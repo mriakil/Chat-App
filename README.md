@@ -3,4 +3,4 @@
 https://chat-app-08ed.onrender.com/
 
 
-chat-app-mriakil.vercel.app
+https://chat-app-mriakil.vercel.app
